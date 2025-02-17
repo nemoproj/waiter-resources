@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Custom Sprites Resource Pack",
+    "name": "Waiter Resources",
+    "uuid": "4c966fa9-9883-487a-a0cf-9851d3216089",
+    "version": [
+      0,
+      0,
+      3
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Custom Sprites",
+      "type": "resources",
+      "uuid": "e6f07494-df6b-41e8-a3ed-e9057c70adb7",
+      "version": [
+        0,
+        0,
+        3
+      ]
+    }
+  ]
+}
